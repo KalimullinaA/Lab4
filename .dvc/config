@@ -1,5 +1,7 @@
 [core]
     remote = myremote
+['remote "catboost"']
+    url = gdrive://1LtcMZpVKqchIwCxihYGjzGbaaiGN2GJj
 ['remote "myremote"']
     url = gdrive://1LtcMZpVKqchIwCxihYGjzGbaaiGN2GJj
     gdrive_acknowledge_abuse = true
